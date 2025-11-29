@@ -14,3 +14,10 @@ def moyenne(liste_nombres):
         return 0  
     total = sum(liste_nombres)
     return total / len(liste_nombres)
+    
+if __name__ == "__main__":
+
+    print(est_pair(10))
+    print(est_pair(11))
+    print(calculer_tva(100, 20))
+    print(moyenne([15, 22, 43, 64, 85]))
