@@ -1,5 +1,0 @@
-import fonction
-
-print(fonction.est_pair(4))
-print(fonction.calculer_tva(100, 20))
-print(fonction.moyenne([1, 2, 3, 4, 5]))
