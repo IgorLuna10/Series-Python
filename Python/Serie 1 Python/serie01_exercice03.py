@@ -1,7 +1,7 @@
 try:  
     age = int(input("Enter your age: "))
 
-    if age < 12:
+    if age < 12: 
         print("Your tarif is 5 euros.")
 
     elif 12 <= age < 17:
